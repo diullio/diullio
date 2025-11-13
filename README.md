@@ -7,8 +7,6 @@
   
 # 👨‍💻 Desenvolvedor Full-Stack | Arquitetura de IA | Sistemas Regulatório-Farmacêuticos
 
-**Criando soluções que combinam Inteligência Artificial, pipelines assíncronos e engenharia de software para transformar monitoramento regulatório, análise documental e automação corporativa.**
-
 </div>
 
 ---
@@ -30,11 +28,7 @@ Construo soluções completas **end-to-end**, desde scraping avançado até pain
 ---
 
 ### 🔹 **ChatRDC — Assistente de IA Regulatório**
-> Sistema com RAG + APIs OpenAI para responder sobre RDC, normas, legislações e documentos regulatórios.
-
-- Pipelines de pré-processamento de documentos
-- Embeddings de alta qualidade
-- Busca híbrida (dense + lexical)
+> Sistema com RAG para responder sobre RDC, normas, legislações e documentos regulatórios.
 
 🌐 https://www.chatrdc.com.br
 
